@@ -90,12 +90,5 @@ Here are some of the projects I've been working on:
 
 <br/>
 
-<!-- GitHub Stats -->
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=roeyw5&show_icons=true&theme=radical)
 
-
-<!-- Visitors -->
-## Visitors
-![Visitor Count](https://profile-counter.glitch.me/roeyw5/count.svg)
 
