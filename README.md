@@ -1,6 +1,6 @@
 # Hey, I'm Roey 👋
 
-DevOps Engineer & Instructor at <a href="https://www.develeap.com/" target="blank"><img src="https://www.develeap.com/wp-content/uploads/2025/12/develeap-logo.svg" alt="Develeap" height="20" /></a>. Find me on <a href="https://www.linkedin.com/in/roey-wullman/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="25" /></a>.
+DevOps Engineer & Instructor at [Develeap](https://www.develeap.com/). Find me on <a href="https://www.linkedin.com/in/roey-wullman/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="25" /></a>.
 
 ## What I Do
 
