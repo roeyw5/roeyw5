@@ -10,39 +10,28 @@ DevOps Engineer & Instructor at [Develeap](https://www.develeap.com/).
 
 🤖 **AI Integration** - Claude Code enthusiast. Developing AI-integrated learning materials and leading internal AI initiatives.
 
+## Projects
+
+A mix of teaching material and sanitized extracts of production systems I've built and run.
+
+- **[claude-code-guide](https://github.com/roeyw5/claude-code-guide)** — A practical guide to Claude Code fundamentals. Covers CLAUDE.md memory, context management, plan mode, skills, sub-agents, hooks, and settings — used as teaching material in Develeap's DevOps bootcamps.
+- **[aws-cost-digest](https://github.com/roeyw5/aws-cost-digest)** — Weekly per-account AWS cost reports for multi-account Organizations. Walks the OU hierarchy, queries Cost Explorer, builds a multi-tab Excel workbook, emails it via SES.
+- **[aws-org-account-factory](https://github.com/roeyw5/aws-org-account-factory)** — Terraform + Lambda system for cost-controlled, policy-bounded AWS sandbox accounts at scale. Daily budgets, SCPs, nightly resource sweep, budget-breach freeze.
+- **[aws-org-sentry](https://github.com/roeyw5/aws-org-sentry)** — Multi-account idle-resource scanner with Slack alerts and one-click stop actions. Scans 11 resource types across an Organization on an EventBridge cron.
+
 ## Tech Stack
 
 <p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/> 
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> 
-  </a>
-  <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" alt="argo-cd" width="40" height="40"/> 
-  </a>
-  <a href="https://helm.sh/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/> 
-  </a>
-  <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> 
-  </a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> 
-  </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/></a>
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
+<a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argo-cd" width="40" height="40"/></a>
+<a href="https://helm.sh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="helm" width="40" height="40"/></a>
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/></a>
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/></a>
 </p>
 
 ## Connect
