@@ -1,22 +1,21 @@
 # Hey, I'm Roey 👋
+DevOps & Cloud Engineer at [Develeap](https://www.develeap.com/). <a href="https://www.linkedin.com/in/roey-wullman/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="25" /></a>
 
-DevOps Engineer & Instructor at [Develeap](https://www.develeap.com/). <a href="https://www.linkedin.com/in/roey-wullman/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="25" /></a>
+I build and harden AWS infrastructure — multi-account governance, IaC, security, cost control, and CI/CD — and I've taken a regulated production estate from vendor-dependent and manually-managed to least-privilege, Terraform-managed, and documented.
 
 ## What I Do
+☁️ **Cloud Infrastructure & Security** — Embedded as DevOps/cloud architect on a publicly-traded production AWS estate: closed the network perimeter, built least-privilege IAM, adopted live infra into Terraform, ran zero-downtime RDS upgrades, and cut AWS spend ~33%.
 
-🎓 **Mentoring** - Mentored 100+ students across 7 DevOps bootcamp cohorts. Hands-on training in AWS, Kubernetes, Docker, and CI/CD.
+🏢 **Multi-Account Governance** — Manage AWS Organizations across multiple OUs with Service Control Policies, automated account provisioning, cross-account cost enforcement, and serverless monitoring/reporting tooling I designed and built end-to-end.
 
-☁️ **AWS Infrastructure** - Managing AWS Organizations for multi-account environments. Building internal automation tooling for resource monitoring and cost control.
+🚀 **Platform & CI/CD** — Terraform IaC across greenfield and live-import workflows, hardened S3 remote state, and security-conscious GitHub Actions pipelines.
 
-🏢 **Client Consulting** - Modernizing a client's AWS infrastructure. Security hardening, IaC adoption, and test environment buildout.
-
-🤖 **AI Integration** - Claude Code enthusiast. Developing AI-integrated learning materials and leading internal AI initiatives.
+🎓 **Mentoring & Curriculum** — Mentored 4 cohorts through an AI-focused DevOps bootcamp at Develeap, and designed its Platform-for-AI track: EKS/Helm/ArgoCD, IRSA-based identity, and LLM-specific observability and CI patterns.
 
 ## Projects
+Sanitized extracts of some production systems I've built and run, plus teaching material.
 
-A mix of teaching material and sanitized extracts of production systems I've built and run.
-
-- **[claude-code-guide](https://github.com/roeyw5/claude-code-guide)** — A practical guide to Claude Code fundamentals. Covers CLAUDE.md memory, context management, plan mode, skills, sub-agents, hooks, and settings — used as teaching material in Develeap's DevOps bootcamps.
-- **[aws-cost-digest](https://github.com/roeyw5/aws-cost-digest)** — Weekly per-account AWS cost reports for multi-account Organizations. Walks the OU hierarchy, queries Cost Explorer, builds a multi-tab Excel workbook, emails it via SES.
-- **[aws-org-account-factory](https://github.com/roeyw5/aws-org-account-factory)** — Terraform + Lambda system for cost-controlled, policy-bounded AWS sandbox accounts at scale. Daily budgets, SCPs, nightly resource sweep, budget-breach freeze.
-- **[aws-org-sentry](https://github.com/roeyw5/aws-org-sentry)** — Multi-account idle-resource scanner with Slack alerts and one-click stop actions. Scans 11 resource types across an Organization on an EventBridge cron.
+- **[aws-org-account-factory](https://github.com/roeyw5/aws-org-account-factory)** — Terraform + Lambda platform for cost-controlled, policy-bounded AWS accounts at scale. Daily budgets, four SCPs (region/instance-type/service guardrails + billing lockdown), nightly cross-account resource sweep, and event-driven budget-breach freeze.
+- **[aws-org-sentry](https://github.com/roeyw5/aws-org-sentry)** — Multi-account idle-resource scanner. Assumes roles across the Org to scan 11 resource types over multiple regions, with Slack alerts, one-click stop actions, and HMAC-verified webhooks on an EventBridge cron.
+- **[aws-cost-digest](https://github.com/roeyw5/aws-cost-digest)** — Weekly per-account cost reporting for multi-account Organizations. Recursively walks the OU hierarchy, aggregates Cost Explorer data, builds a multi-tab Excel workbook, and emails it via SES.
+- **[claude-code-guide](https://github.com/roeyw5/claude-code-guide)** — A practical guide to Claude Code fundamentals: CLAUDE.md memory, context management, plan mode, skills, sub-agents, hooks, and settings. Used as teaching material in Develeap's DevOps bootcamps.
